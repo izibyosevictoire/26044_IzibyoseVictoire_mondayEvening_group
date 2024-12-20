@@ -8,7 +8,7 @@ i added some Comments  to explain the purpose and functionality of each block of
 import java.io.*;
 import java.sql.*;
 
-public class ExceptionHandlingExamples {
+public class ExceptionHandling {
 
     // 1. IOException: Simulating an input/output error when reading a file.
     public static void simulateIOException() {
